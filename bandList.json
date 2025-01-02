@@ -1,90 +1,107 @@
 [
     {
         "name": "The Hustle",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367103/zl4qfcztnb77sowxinma.jpg"
-    },
-    {
-        "name": "Todd Test",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1735677697/dh1zbtelsbiflncpaa93.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367103/zl4qfcztnb77sowxinma.jpg",
+        "url": "https://www.dirtbag-entertainment.com/bands/the-hustle/"
     },
     {
         "name": "The Reverie",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1716375902/eshxh9hwbahfpoambxql.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1716375902/eshxh9hwbahfpoambxql.jpg",
+        "url": ""
     },
     {
         "name": "When We Were Young",
-        "image": ""
+        "image": "",
+        "url": ""
     },
     {
         "name": "Moonshine",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715349111/fjksf49udouka0hmji1r.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715349111/fjksf49udouka0hmji1r.jpg",
+        "url": ""
     },
     {
         "name": "Call of the Kraken",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367894/mpu88muj2n2tld9bfmaw.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367894/mpu88muj2n2tld9bfmaw.jpg",
+        "url": ""
     },
     {
         "name": "The New Ventures",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715366860/kgik0s3ivy5kcuk8blgo.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715366860/kgik0s3ivy5kcuk8blgo.jpg",
+        "url": ""
     },
     {
         "name": "The Clovers",
-        "image": ""
+        "image": "",
+        "url": ""
     },
     {
         "name": "Cascades",
-        "image": ""
+        "image": "",
+        "url": ""
     },
     {
         "name": "The Outlaws",
-        "image": ""
+        "image": "",
+        "url": ""
     },
     {
         "name": "Pinstripes",
-        "image": ""
+        "image": "",
+        "url": ""
     },
     {
         "name": "Scuzzed",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367999/opyauemeqch3v0umsjm1.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367999/opyauemeqch3v0umsjm1.jpg",
+        "url": ""
     },
     {
         "name": "Subtract",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367207/hhnrdgjyk2pej7t4z53d.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715367207/hhnrdgjyk2pej7t4z53d.jpg",
+        "url": ""
     },
     {
         "name": "Yubaba",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368971/iqjspbx490nbgjc0i5eq.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368971/iqjspbx490nbgjc0i5eq.jpg",
+        "url": ""
     },
     {
         "name": "The Instigators",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368811/fpsuex9y6ykwattquj7g.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368811/fpsuex9y6ykwattquj7g.jpg",
+        "url": ""
     },
     {
         "name": "Atrlantic Park",
-        "image": ""
+        "image": "",
+        "url": ""
     },
     {
         "name": "The Highlife",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368682/uhojfbvicmtiecmr40e1.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368682/uhojfbvicmtiecmr40e1.jpg",
+        "url": ""
     },
     {
         "name": "The Wolfpack",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368881/n7ao3mfns2ohirksdnfg.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368881/n7ao3mfns2ohirksdnfg.jpg",
+        "url": ""
     },
     {
         "name": "The Maydays",
-        "image": ""
+        "image": "",
+        "url": ""
     },
     {
         "name": "Sundown",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368497/uyspjhvutpxqsbuz09i3.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368497/uyspjhvutpxqsbuz09i3.jpg",
+        "url": ""
     },
     {
         "name": "Edit Acoustic",
-        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368099/hcy6bk9k1zfohusflg0e.jpg"
+        "image": "https://res.cloudinary.com/dubsado/image/upload/v1715368099/hcy6bk9k1zfohusflg0e.jpg",
+        "url": ""
     },
     {
         "name": "Warped",
-        "image": ""
+        "image": "",
+        "url": ""
     }
 ]
