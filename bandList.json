@@ -406,5 +406,39 @@
     "url": "https://www.dirtbag-entertainment.com/bands/yubaba/",
     "djPricing": "?400",
     "daytimeOptions": "asdfadsf (?460)\nafdsfadsf (?380)\nasdfasdf (?260)"
+  },
+  {
+    "name": "Headlights",
+    "contactFirst": "Katy",
+    "contactLast": "Shaw",
+    "phone": "+?447810516913?",
+    "email": "hyperflyband@gmail.com",
+    "calendarId": "",
+    "igLink": "",
+    "igText": "",
+    "fbLink": "",
+    "fbText": "",
+    "reviewLink": "",
+    "image": "https://www.youtube.com/embed/CJfWSZZlNWk?si=o1Y_c9MFIv0_1OOx",
+    "url": "https://www.dirtbag-entertainment.com/bands/headlights/",
+    "djPricing": "",
+    "daytimeOptions": ""
+  },
+  {
+    "name": "The Guest List",
+    "contactFirst": "Katy",
+    "contactLast": "Shaw",
+    "phone": "+?447810516913?",
+    "email": "infinitynightsband@gmail.com",
+    "calendarId": "",
+    "igLink": "",
+    "igText": "",
+    "fbLink": "",
+    "fbText": "",
+    "reviewLink": "",
+    "image": "https://www.youtube.com/embed/II4f-UQVbDI?si=LBGyWEbuSxY0V09i",
+    "url": "https://www.dirtbag-entertainment.com/bands/the-guest-list/",
+    "djPricing": "",
+    "daytimeOptions": ""
   }
 ]
