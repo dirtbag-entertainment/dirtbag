@@ -695,5 +695,39 @@
     "url": "https://www.dirtbag-entertainment.com/bands/the-pines/",
     "djPricing": "",
     "daytimeOptions": ""
+  },
+  {
+    "name": "Small Talk",
+    "contactFirst": "Rich",
+    "contactLast": "Hughes",
+    "phone": "+447800719903",
+    "email": "modernfixband@gmail.com",
+    "calendarId": "0d3ceaaee2f539735da290b89633778d00dbd74924492a37d007990ae6c3d381@group.calendar.google.com",
+    "igLink": "",
+    "igText": "",
+    "fbLink": "",
+    "fbText": "",
+    "reviewLink": "",
+    "image": "https://www.youtube.com/embed/VpV3blacO4o?si=nO-lm-VeoaXLAKnB",
+    "url": "https://www.dirtbag-entertainment.com/bands/small-talk/",
+    "djPricing": "",
+    "daytimeOptions": ""
+  },
+  {
+    "name": "Vice",
+    "contactFirst": "Lawrence",
+    "contactLast": "Giles",
+    "phone": "+447702539323",
+    "email": "",
+    "calendarId": "",
+    "igLink": "",
+    "igText": "",
+    "fbLink": "",
+    "fbText": "",
+    "reviewLink": "",
+    "image": "",
+    "url": "",
+    "djPricing": "",
+    "daytimeOptions": ""
   }
 ]
